@@ -1,0 +1,44 @@
+.parking-entries-table {
+  width: 100%;
+
+  th, td {
+    text-align: center;
+  }
+
+  th {
+    background-color: rgba(196,203,183, .3);
+    padding: 10px 5px;
+
+    &:hover {
+      cursor: pointer;
+    }
+
+  }
+
+  td {
+    font-size: 14px;
+  }
+
+  .over-24-hours {
+    background-color: $over-24-hours;
+    color: $white;
+  }
+
+  .under-an-hour {
+    background-color: $free-parking;
+    color: $white;
+  }
+
+  .entries-list {
+    border-top: 1px solid rgba(3,3,3,.3);
+    width: 100%;
+
+    tr {
+      &.hide {
+        display: none;
+      }
+    }
+
+  }
+
+}

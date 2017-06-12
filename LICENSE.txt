@@ -1,0 +1,111 @@
+License
+
+Copyright (c) 2017, Overpass LLC.
+All rights reserved.
+
+Redistribution and use in source and any other forms, with or without
+modification are prohibited without explicit written permission by an autorized Overpass officer.
+
+* Any work commited on this code base, is for the purpose of an interview evaluation.
+
+
+                  COPYRIGHT NOTICE AND LICENSE
+
+COPYRIGHT
+=========
+
+   Copyright - Overpass LLC. 2017
+
+
+DEFINITIONS
+===========
+
+In this  document the following terms are used:
+
+   `Work'
+    Any files in this repository, regarless of by whom it is commited. By commiting you agree to assign copyright of any commited data to Overpass LLC.
+    
+    'Copyright Holder'
+    Overpass LLC
+
+   `Derived Work'
+    Any work that under any applicable law is derived from the Work.
+
+   `Modification' 
+    Any procedure that produces a Derived Work under any applicable
+    law -- for example, the production of a file containing an
+    original file associated with the Work or a significant portion of
+    such a file, either verbatim or with modifications and/or
+    translated into another language.
+
+   `Modify'
+    To apply any procedure that produces a Derived Work under any
+    applicable law.
+    
+   `Distribution'
+    Making copies of the Work available from one person to another, in
+    whole or in part.  Distribution includes (but is not limited to)
+    making any electronic components of the Work accessible by
+    file transfer protocols such as FTP or HTTP or by shared file
+    systems such as Sun's Network File System (NFS).
+
+
+CONDITIONS ON DISTRIBUTION AND MODIFICATION
+===========================================
+
+1.  You may not distribute the Work, a copy of the Work or any part of the Work.
+There is no right to distribute such any work or Derived
+Work under the terms of this clause.
+
+2. The Copyright Holder may, without restriction, modify the Work,
+thus creating a Derived Work. The Copyright Holder may also distribute
+the Derived Work without restriction. Derived Works distributed in
+this manner by the Copyright Holder are considered to be updated
+versions of the Work.
+
+3.  If you are not the Copyright Holder, you are not allowed
+to modify the Work other than what is explicitly allowed under the terms of the interview.
+
+4. Distribution of the Work in an alternative format, where the Work
+is then produced by applying some process to that format, does not
+relax or nullify any sections of this license as they pertain to the
+results of applying that process.
+
+5.  Nothing in this license is intended to, or may be used to, prevent
+complete compliance by all parties with all applicable laws.
+
+
+CONDITIONS ON USE
+=================
+
+The Work may be used for the purpose of the interview process at 
+Overpass LLC. It may not be used for any other purpose. The prohibition
+includes non-commercial, private and academic purposes. 
+To use the Work for any purpose other than the by Overpass LLC requested
+interview procedure you must obtain a license for use from the Copyright Holder.
+
+
+NO WARRANTY
+===========
+
+There is no warranty for the Work.  Except when otherwise stated in
+writing, the Copyright Holder makes the Work available for purpose of
+you taking the interview, `as is', without warranty of any kind, 
+either expressed or implied, including, but not limited to, the 
+implied warranties of merchantability and fitness for a particular purpose.  
+The entire risk as to the quality and performance of the Work is with you.
+
+In no event unless agreed to in writing will the Copyright Holder or
+any other party who may distribute the Work as permitted above, be
+liable to you for damages, including any general, special, incidental
+or consequential damages arising out of any use of the Work or out
+of inability to use the Work (including, but not limited to, loss of
+data, data being rendered inaccurate, or losses sustained by anyone
+as a result of any failure of the Work to operate with any other
+programs), even if the Copyright Holder or said other party has been
+advised of the possibility of such damages.
+
+
+
+
+

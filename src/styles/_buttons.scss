@@ -1,0 +1,51 @@
+
+.toggle-free-entries-wrapper {
+  text-align: center;
+  margin: 20px auto;
+  max-width: 200px;
+
+  .toggle-header {
+    display: block;
+  }
+
+  &.active {
+    .toggle-free-entries {
+      &:before {
+        transition: all .3s linear;
+        right: 18px;
+      }
+    }
+  }
+}
+
+.toggle-free-entries {
+  height: 20px;
+  width: 40px;
+  border: 1px solid rgba(3,3,3,.3);
+  border-radius: 40px;
+  display:block;
+  position: relative;
+  overflow: hidden;
+  margin: 10px auto 0;
+
+  &:before {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: -1px;
+    height: 100%;
+    width: 100%;
+    transition: all .3s linear;
+    background-color: $free-parking-toggle;
+    border: 1px solid rgba(0,0,0,.2);
+    width: 22px;
+    height: 20px;
+    border-radius: 40px;
+  }
+
+  &:hover {
+    cursor: pointer;
+  }
+
+
+}

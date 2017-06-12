@@ -1,0 +1,26 @@
+
+@mixin breakpoint($breakpoint) {
+  @if $breakpoint == "mobile" {
+    @media #{$bp-mobile} {
+      @content;
+    }
+  }
+
+  @if $breakpoint == "tablet" {
+    @media #{$bp-tablet} {
+      @content;
+    }
+  }
+
+  @else if $breakpoint == "tablet-only" {
+    @media #{$bp-tablet-only} {
+      @content;
+    }
+  }
+
+  @else if $breakpoint == "desktop" {
+    @media #{$bp-desktop} {
+      @content;
+    }
+  }
+}
